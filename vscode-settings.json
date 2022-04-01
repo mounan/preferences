@@ -1,0 +1,82 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "terminal.integrated.inheritEnv": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5,
+    "python.pythonPath": "/Users/zmn/opt/anaconda3/bin/python",
+    "tabnine.experimentalAutoImports": true,
+    "git.autofetch": true,
+    "autoDocstring.docstringFormat": "sphinx",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "prettier.tabWidth": 4,
+    "[graphql]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "files.maxMemoryForLargeFilesMB": 5000,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "java.configuration.runtimes": [],
+    "powermode.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.semanticTokenColorCustomizations": null,
+    "editor.autoIndent": "full",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "line",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "",
+    "editor.fontLigatures": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": false,
+    "editor.formatOnSave": true,
+    "editor.letterSpacing": 0.5,
+    "editor.lineHeight": 25,
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.minimap.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.tabCompletion": "on",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "python.defaultInterpreterPath": "/Users/zmn/opt/anaconda3/bin/python",
+    "redhat.telemetry.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "[php]": {
+        "editor.defaultFormatter": "Sophisticode.php-formatter"
+    },
+    "remote.SSH.connectTimeout": 30,
+    "workbench.colorTheme": "One Monokai",
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.inlineSuggest.enabled": true,
+    "powermode.shake.enabled": false,
+    "editor.accessibilitySupport": "on",
+    "audioCues.enabled": "off",
+    "audioCues.lineHasError": "off",
+    "audioCues.lineHasBreakpoint": "off",
+    "audioCues.lineHasFoldedArea": "off",
+    "audioCues.lineHasInlineSuggestion": "off",
+    "audioCues.noInlayHints": "off",
+    "audioCues.onDebugBreak": "off"
+}
